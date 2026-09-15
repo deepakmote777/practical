@@ -1,0 +1,31 @@
+check Git Installation git --Version
+
+confiqure Git Cone time only)
+
+→ Git config. -- alobal user.name"your Name" •git confid --global user. email "youremail"
+
+-> git config -- globat list
+
+③ create New folder (Repositorry)
+
+-> mkdir myproject.
+
+-> cd myproject
+
+-> git init
+
+3 create file or clone am Existing Vim demo.py Repository
+
+-> git Add file git add demo py
+
+-> git commit - m"Conmit message"
+
+(8 connect locel repository to github
+
+display the remote repositories that are
+
+conmected to your Jocal Crit repository git remote -V
+
+if not, git remote remore origin.
+
+-> Push repository git Push -u origin main.
